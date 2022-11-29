@@ -1,0 +1,101 @@
+{
+  "buku": [{
+    
+    "judul":"A Tale of Two Cities - Charles Dickens",
+    "cover":"b1",
+    "review":"31,333"
+  },
+  {
+    "judul":"Don quixote - Miguel de Cervantes",
+    "cover":"b2",
+    "review":"21,127"
+  },
+  {
+    
+    "judul":"Quotations - Chairman Mao Tse-Tung",
+    "cover":"b3",
+    "review":"22,949"
+  },
+  {
+     
+    "judul":"The Hobbit and Lord of the Rings - J.R.R. Tolkien",
+    "cover":"b4",
+    "review":"11,609"
+  },
+  {
+     
+    "judul":"Dream of the RedChamber - Tsao HsuehChin",
+    "cover":"b5",
+    "review":"31,333"
+  },
+  {
+     
+    "judul":"Chuck Wendig - Wayward a novel (Terjemahan)",
+    "cover":"b6",
+    "review":"11,609"
+  },
+  {
+     
+    "judul":"Lisa - Secluded Cabin Sleeps Six",
+    "cover":"b7",
+    "review":"27,232"
+  },
+  {
+    
+    "judul":"Think Again - Adam Grant (Terjemahan)",
+    "cover":"b8",
+    "review":"21,127"
+  },
+  {
+    
+    "judul":"Don quixote - Miguel de Cervantes",
+    "cover":"b9",
+    "review":"05,201"
+  },
+  {
+     
+    "judul":"Don quixote - Miguel de Cervantes",
+    "cover":"b10",
+    "review":"13,092"
+  },
+  {
+    
+    "judul":"Don quixote - Miguel de Cervantes",
+    "cover":"b11",
+    "review":"20,909"
+  },
+  {
+   
+    "judul":"Don quixote - Miguel de Cervantes",
+    "cover":"b12",
+    "review":"05,201"
+  },
+  {
+    
+    "judul":"It Didn't Start With You - Mark Wolynn",
+    "cover":"b13",
+    "review":"21,127"
+  },
+  {
+
+    "judul":"Out of Time Charm - Tracy Wolff (Terjemahan)",
+    "cover":"b14",
+    "review":"20,909"
+  },
+  {
+     
+    "judul":"How to Change Your Mind - Michael Pollan",
+    "cover":"b15",
+    "review":"27,232"
+  },
+  {
+    
+    "judul":"The Silent Patient - Alex Michaelides",
+    "cover":"b16",
+    "review":"05,201"
+  }
+]
+}
+
+
+
